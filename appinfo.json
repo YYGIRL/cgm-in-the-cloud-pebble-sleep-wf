@@ -127,7 +127,7 @@
     "shortName": "CGM Sleep",
     "uuid": "40d6fc48-b70f-4ebc-b96f-08e57af94087",
     "versionCode": 1,
-    "versionLabel": "7.3",
+    "versionLabel": "7.4",
     "watchapp": {
         "watchface": true
     }
